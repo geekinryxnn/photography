@@ -6,10 +6,10 @@
     
 }
 .banner{
-     width:100%;
+     width: 100%;
      height: 100vh;
+    
      background-image:url(background.jpeg.jfif);
-     
      background-position: center;
      background-attachment: fixed;
 }
