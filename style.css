@@ -90,6 +90,17 @@ ul li a:hover{
 }
 
  
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  margin: 10px; /* Remove default body margin */
+}
+
+p {
+  text-align: center; /* Center the text inside the paragraph */
+}
 
 
 
