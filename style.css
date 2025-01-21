@@ -83,10 +83,16 @@ ul li a:hover{
     padding: 0 2px;
   }
   
-  .column img {
-    margin-top: 4px;
-    vertical-align: middle;
-  }
+ 
+  
+  .column{
+    margin-left: 20px; /* Moves the image 20px to the right */
+    margin-top: 20x;  /* Moves the image 10px down */
+}
+
+
+
+  
 
 
 
