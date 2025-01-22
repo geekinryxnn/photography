@@ -1,91 +1,100 @@
-*{
-    margin: 0%;
-    padding: 0%;
-    font-family: 'Segoe UI';
-    color: black solid;
-    
-} 
-.main{
-    width: 100%;
-    background:url(background2.jpeng.jpg);
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    background-attachment: fixed;
-    
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Segoe UI";
+  color: black solid;
 }
-.logo{
-    color: orangered;
-    font-family: Arial;
-    padding-left: 20%;
-    float: right;
-    padding-top: 10px;
-    font-size: 35px;
-    cursor: pointer;
-} 
+.main {
+  width: 100%;
+  background: url(background2.jpeng.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  background-attachment: fixed;
+}
+.logo {
+  color: orangered;
+  font-family: Arial;
+  padding-left: 20%;
+  float: right;
+  padding-top: 10px;
+  font-size: 35px;
+  cursor: pointer;
+}
 
-.menu{
-    width: 400%;
-    float: left;
-    height: 70px;
+.menu {
+  width: 400%;
+  float: left;
+  height: 70px;
 }
-ul{
-    float: left;
-    display: flex;
-    justify-items: center;
-    align-items: center;
+ul {
+  float: left;
+  display: flex;
+  justify-items: center;
+  align-items: center;
 }
-ul li{
-    list-style: none;
-    margin-left: 45px;
-    margin-top: 27px;
-    font-size: 30px;
+ul li {
+  list-style: none;
+  margin-left: 45px;
+  margin-top: 27px;
+  font-size: 30px;
 }
-ul li a{
-    text-decoration: none;
-    color: aliceblue;
-    font-family: Arial;
-    font-weight: bold;
-    transition: 0.4s ease-in-out;
+ul li a {
+  text-decoration: none;
+  color: aliceblue;
+  font-family: Arial;
+  font-weight: bold;
+  transition: 0.4s ease-in-out;
 }
-ul li a:hover{
-    color: black;
+ul li a:hover {
+  color: black;
 }
-.content{
-    width: 90px;
-    height: auto;
-    margin: auto;
-    color: aqua;
-    position: relative;
+.content {
+  width: 90px;
+  height: auto;
+  margin: auto;
+  color: aqua;
+  position: relative;
 }
-.content h1{
-    width: 90px;
-    font-size: 70px;
-    float: left;
-    padding-left: 20%;
-    justify-content: center;
-    padding-top: 0px;
-    color: blue;
+.content h1 {
+  width: 90px;
+  font-size: 70px;
+  float: left;
+  padding-left: 20%;
+  justify-content: center;
+  padding-top: 0px;
+  color: blue;
 }
-.content h1:hover{
-    color: black;
-    cursor: pointer;
+.content h1:hover {
+  color: black;
+  cursor: pointer;
 }
 .row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
-  }
-  
-  /* Create two equal columns that sits next to each other */
-  .column {
-    flex: 0%;
-    padding: 0 20px;
-  }
-.row{
-  margin-left: 0px; /* Moves the image 20px to the right */
-  margin-top: 0px;  /* Moves the image 10px down */
-  padding-left: 0px; /* Moves the content of the image inside */
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 0%;
+  padding: 0 20px;
+}
+.section1 {
+  float: left;
+
+  width: 300px;
+  font-size: 40px;
+  float: left;
+  padding-left: 10%;
+  justify-content: center;
+  padding-top: 20px;
+  color: blue;
+}
+.section2 {
+  width: 300%;
+  padding-left: 0%;
+  float: ;
 }
 
 p {
@@ -96,23 +105,4 @@ p {
   padding-block: 6%;
   inline-size: 35%;
   color: red;
-  }
-
-
-
- 
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
+}
