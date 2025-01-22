@@ -6,7 +6,7 @@
     
 } 
 .main{
-    width: 100%;
+    width: 200%;
     background:url(background2.jpeng.jpg);
     background-size: cover;
     background-position: center;
@@ -79,24 +79,21 @@ ul li a:hover{
   
   /* Create two equal columns that sits next to each other */
   .column {
-    flex: 30%;
-    padding: 0 2px;
+    flex: 0%;
+    padding: 0 20px;
   }
 .row{
-  margin-left: 10px; /* Moves the image 20px to the right */
-  margin-top: 50px;  /* Moves the image 10px down */
-  padding-left: 20px; /* Moves the content of the image inside */
-}
-img{
-  display: flex;
-  justify-content: center;
-  align-items: ;
-  height: 25pc; /* Full viewport height */
-  margin: 10px; /* Remove default body margin */
+  margin-left: 0px; /* Moves the image 20px to the right */
+  margin-top: 0px;  /* Moves the image 10px down */
+  padding-left: 0px; /* Moves the content of the image inside */
 }
 
 p {
   text-align: center; /* Center the text inside the paragraph */
+  margin: 10px;
+  display: flex;
+  justify-content: left;
+
 }
 
 
