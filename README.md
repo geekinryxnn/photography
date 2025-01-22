@@ -8,9 +8,8 @@ Welcome to my website! Here's a brief overview of the project.
 - You can view my work by clicking the Gallery button and contact me if there is any trouble.
 
 
-## How to Use
-1. Clone the repository.
-2. Open `Be` in your browser.
+## How to access and view my portfolio
+ 1. [Open  in your browser.](Bhttps://geekinryxnn.github.io/photography/e)
 
 ## Credits
 Created by [Ryan Kiratu](https://github.com/geekinryxnn/photography).
