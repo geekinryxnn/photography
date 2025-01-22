@@ -9,7 +9,7 @@ Welcome to my website! Here's a brief overview of the project.
 
 
 ## How to access and view my portfolio
- 1. [Open  in your browser.](Bhttps://geekinryxnn.github.io/photography/e)
+ 1. [Open  in your browser](https://geekinryxnn.github.io/photography/e)
 
 ## Credits
 Created by [Ryan Kiratu](https://github.com/geekinryxnn/photography).
