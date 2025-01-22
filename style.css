@@ -3,9 +3,10 @@
   padding: 0%;
   font-family: "Segoe UI";
   color: black solid;
+
 }
 .main {
-  width: 100%;
+  width: auto;
   background-image: url(background2.jpeng.jpg);
   background-size: cover;
   background-position: center;
@@ -24,7 +25,7 @@
 }
 
 .menu {
-  width: 400%;
+  width: 100%;
   float: left;
   height: 70px;
 }
@@ -75,18 +76,18 @@ ul li a:hover {
  padding: 20px;
   margin-top: 0px;
 }
-.section2 {
-  width: 300%;
-  padding-left: 0%;
-  
-}
 
-p {
+  p {
   text-align: center; /* Center the text inside the paragraph */
   margin: 0%;
   padding-left: 0%;
   padding-bottom: 8%;
   padding-block: 6%;
-  inline-size: 35%;
-  color: red;
+  color: white;
+  width: 80%;
+}
+.section2{
+    
+    position: left;
+  
 }
